@@ -1,0 +1,15 @@
+{
+	"name": "java-playground",
+	"version": "1.0.0",
+	"description": "Practicas java",
+	"license": "MIT",
+	"author": {
+		"name": "Pablo Peña",
+		"email": "pablopenia.dev@gmail.com",
+		"url": "https://pablopenia.dev"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PabloPenia/java-playground.git"
+	}
+}
