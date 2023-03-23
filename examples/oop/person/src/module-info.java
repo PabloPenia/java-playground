@@ -5,5 +5,5 @@
  * @author r4v3n
  *
  */
-module test {
+module person {
 }
