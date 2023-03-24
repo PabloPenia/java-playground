@@ -3,9 +3,16 @@ package main;
 public class App {
 
   /**
-   * Methods named as a verb 'get', 'set', etc work like functions in
+   * Methods named as a verb 'get', 'set', etc. They work like functions in
    * javascript, more specifically methods in javascript (functions inside
    * objects). A method needs to leave inside a class.
+   * To use the method we have 2 options:
+   * 1. create an instance of the class which holds the method, and then call the method:
+   * 	MyClass myClass = new MyClass();
+   * 	myClass.myMethod();
+   * 2. Create a static method that can be called without class instantiation. Usefull for utility methods:
+   * 	public static void myMethod() {}
+   * 	myMethod();
    */
   public void sayHello() {
 	System.out.println("Hello world");
@@ -20,8 +27,8 @@ public class App {
   }
   
   /**
-   * RESTish Operator to pass unknown arguments (varargs).
-   * @param myArgs
+   * 
+   * @param myArgs RESTish Operator to pass unknown arguments (varargs).
    */
   public static void getUnknownArgs(int... myArgs) {
 	for(int i = 0; i < myArgs.length; i++) {	  
