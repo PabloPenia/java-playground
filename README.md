@@ -9,5 +9,5 @@ In this repo you can find some of my testing projects, examples and exercises.
 En este repo podés encontrar algunos de mis proyectos de prueba, ejemplos y ejercicios.
 **Para navegar**: Selecciona las ramas:
 
-- main: This readme.
-- references: Java language basics reference with examples.
+- main: Este readme.
+- references: Refrencia a los básicos del lenguaje Java con ejemplos.
