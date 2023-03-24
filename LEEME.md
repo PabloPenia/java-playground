@@ -6,4 +6,4 @@
   - main: Este readme y todos los ejemplos y proyectos.
   - references: Referencia a los básicos del lenguaje Java con ejemplos.
 
-[ENGLISH](https://github.com/PabloPenia/java-playground/edit/main/README.md)
+[ENGLISH](https://github.com/PabloPenia/java-playground/main/README.md)
