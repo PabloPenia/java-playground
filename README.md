@@ -1,13 +1,15 @@
 # java-playground
 
 In this repo you can find some of my testing projects, examples and exercises.
-**To navigate**: Switch between branches:
 
-- main: This readme.
-- references: Java language basics reference with examples.
+- **Filter projects**: Switch between branches:
+
+  - main: This readme.
+  - references: Java language basics reference with examples.
 
 En este repo podés encontrar algunos de mis proyectos de prueba, ejemplos y ejercicios.
-**Para navegar**: Selecciona las ramas:
 
-- main: Este readme.
-- references: Refrencia a los básicos del lenguaje Java con ejemplos.
+- **Filtrar projectos**: Cambia entre las ramas:
+
+  - main: Este readme.
+  - references: Referencia a los básicos del lenguaje Java con ejemplos.
