@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>methods</name>
+	<name>MenuPos</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1682682866533</id>
+			<id>1682682866527</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
